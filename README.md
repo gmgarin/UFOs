@@ -36,6 +36,24 @@
 ## Summary
 ### JavaScript can be used to analyze data and visualize results using HTML. Using these tools can make it easier for end users to search through the data using filter search. 
 
-### *Drawback*
+### **_Drawback_**
 ### One drawback of this particular project is that the filter search is "case-sensitive" which means that end users cannot use uppercase letters when searching. When typing, the input words has to match the manner in which the criteria is written.
 
+![This is an image](https://github.com/gmgarin/UFOs/blob/f4a8931225552c32ffcfaf2f8dedd59866d757f1/static/images/drawback_1.png)
+
+<p align="center">
+   Uppercase search using "State" criteria with no results found
+</p>
+
+1[This is an image](https://github.com/gmgarin/UFOs/blob/f4a8931225552c32ffcfaf2f8dedd59866d757f1/static/images/drawback_2.png)
+
+<p align="center">
+   Lowercase search using "State" criteria
+</p>
+
+### Since all the states in "State" criteria are written with lowercase letters, input should be in lowercase letters, otherwise, no results will populate. 
+
+### To futher enhance this project, I would recommend the following:
+- "Search" button on the webapge.
+- Word suggestions and/or dropdown list in each criteria
+- Additonal data which may include UFO sightings in other countries to fully utilize "Filter Search" feature.
