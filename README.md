@@ -13,5 +13,5 @@
 ![This is an image](https://github.com/gmgarin/UFOs/blob/312db3e23803b8e12340428f12477b4b27bfa141/static/images/webpage.png)
 
 <p align="center">
-   [Webpage Image](https://github.com/gmgarin/UFOs/blob/2b9030de9cda2030a3d6a9f12f5eaaa23549062e/index.html)
+   UFO Sightings Webpage
 </p>
