@@ -16,6 +16,13 @@
    UFO Sightings Webpage
 </p>
 
+![This is an image](https://github.com/gmgarin/UFOs/blob/4f585e24393a6f196b5f33d1d46d7c3d4e710e10/static/images/filter.png)
+
+<p align="center">
+   Filter Search Feature
+</p>
+
+
 ### As mentioned, the [webpage's](https://github.com/gmgarin/UFOs/blob/2b9030de9cda2030a3d6a9f12f5eaaa23549062e/index.html) feature is the filter search using criteria. Users can filter using one or more criteria at the same.
 
 ### Using single criteria:
@@ -25,3 +32,10 @@
 ![This is an image](https://github.com/gmgarin/UFOs/blob/54c5e9abe1a3674ca5d45964d2771d253f625c68/static/images/multiple_criteria.png)
 
 ### Users can also reset search by deleting entry in each criteria boxes. 
+
+## Summary
+### JavaScript can be used to analyze data and visualize results using HTML. Using these tools can make it easier for end users to search through the data using filter search. 
+
+### *Drawback*
+### One drawback of this particular project is that the filter search is "case-sensitive" which means that end users cannot use uppercase letters when searching. When typing, the input words has to match the manner in which the criteria is written.
+
