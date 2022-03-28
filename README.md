@@ -15,3 +15,13 @@
 <p align="center">
    UFO Sightings Webpage
 </p>
+
+### As mentioned, the [webpage's](https://github.com/gmgarin/UFOs/blob/2b9030de9cda2030a3d6a9f12f5eaaa23549062e/index.html) feature is the filter search using criteria. Users can filter using one or more criteria at the same.
+
+### Using single criteria:
+[This is an image](https://github.com/gmgarin/UFOs/blob/54c5e9abe1a3674ca5d45964d2771d253f625c68/static/images/single_criteria.png)
+
+### Using multiple criteria:
+[This is an image](https://github.com/gmgarin/UFOs/blob/54c5e9abe1a3674ca5d45964d2771d253f625c68/static/images/multiple_criteria.png)
+
+### Users can also reset search by deleting entry in each criteria boxes. 
